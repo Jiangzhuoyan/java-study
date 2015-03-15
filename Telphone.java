@@ -10,6 +10,6 @@ public class Telphone {
 		System.out.println("Telphone有打电话的功能");
 	}
 	void sendMessage(){
-		System.out.println("screen:"+screen+"cpu:"+cpu+"mem"+mem+"Telphone有发短信的功能");
+		System.out.println("screen:"+screen+"cpu:"+cpu+"mem:"+mem+" Telphone有发短信的功能");
 	}
 }
